@@ -6,7 +6,7 @@ public class Test2 {
 		
 		String name = "Git";
 		
-		if (name.equals("Git")) {
+		if (name.equals("Git") || name == "Git") {
 			System.out.println("Working on the Git");
 		}
 		else {
